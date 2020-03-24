@@ -1,0 +1,32 @@
+  body {
+  background-image: url('Background_Photo.jpg');
+}
+  h1 {
+  color: lime;
+  font-family: mojo;
+  font-size: 300%;
+  margin: 75px 15px 15px 15px;
+  border: 2px solid powderblue;
+  background-color: navy;
+  opacity: 0.6;
+  padding: 10px;
+  border-radius: 15px;
+}
+  p {
+  color: white;
+  font-family: courier;
+  margin: 75px;
+  border: 2px solid powderblue;
+  background-color: navy;
+  opacity: 0.6;
+  padding: 20px;
+  border-radius: 15px;
+}
+  img {
+  width: 300px; 
+  height: :300px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: transparent;
+  border-radius: 100%;
+}
